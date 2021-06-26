@@ -1,3 +1,16 @@
+
+---
+title: "Reproducible Research - Project 1"
+output:
+  html_document:
+    keep_md: true
+  
+---
+
+
+#### For Peer Assessment Project 1, 
+Please click on **PA1_template.md** to see the RMD file with figures. The figures are also included stand-alone. The figure/` directory desribed the notes below (forked from RPeng)is not created in this (2021) version of the RMD. Instead, the PA1_template.html contains the figures. - Thanks!
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
